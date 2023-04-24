@@ -60,6 +60,9 @@ flutter:
   assets:
     - assets/images/quiz-logo.png
     - assets/images/quiz-logo.png
+    - screenshots/home_screen.png
+    - screenshots/question_screen.png
+    - screenshots/results_screen.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

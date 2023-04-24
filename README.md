@@ -1,16 +1,37 @@
-# quiz_app
+# Quiz App
 
-A new Flutter project.
+A mobile application built with Flutter and Dart that allows users to take quizzes and track their progress.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Multiple-choice questions
+- Score tracking
+- Correct for each question failed or answered correctly
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Home Screen](/screenshots/home_screen.png)
+![Question Screen](/screenshots/question_screen.png)
+![Results Screen](/screenshots/results_screen.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+To run this app, you will need to have Flutter installed on your computer. Once you have Flutter installed, you can follow these steps to run the app:
+
+1. Clone the repository to your local machine.
+2. Open the project in a code editor of your choice.
+3. Run `flutter pub get` to install the required dependencies.
+4. Run `flutter run` to launch the app.
+
+## Technologies Used
+
+- Flutter
+- Dart
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+## Conclusion
+
+Thank you for using the Quiz App! If you have any questions or feedback, please feel free to contact me on any of my social media handles
