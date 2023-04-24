@@ -10,9 +10,9 @@ A mobile application built with Flutter and Dart that allows users to take quizz
 
 ## Screenshots
 
-![Home Screen](/screenshots/home_screen.png){ width=50px }
-![Question Screen](/screenshots/question_screen.png){ width=50px }
-![Results Screen](/screenshots/results_screen.png){ width=50px }
+![Home Screen]<img src="/screenshots/home_screen.png" alt="Home Screen" width="200" height="400">{ width=50px }
+![Question Screen]<img src="/screenshots/question_screen.png" alt="Home Screen" width="200" height="400">{ width=50px }
+![Results Screen]<img src="/screenshots/results_screen.png" alt="Home Screen" width="200" height="400">{ width=50px }
 
 ## Installation
 
